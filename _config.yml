@@ -1,7 +1,7 @@
 # Site settings
 title: Sazed
 description: Sazed's description
-url: "http://raystudioco.github.io" # the base hostname & protocol for your site
+url: "http://raystudioco.github.io/sazed" # the base hostname & protocol for your site
 copyright: Copyright &copy; Abhay Rana
 email: ray@raystudiophoto.com
 repo: raystudioco/sazed
